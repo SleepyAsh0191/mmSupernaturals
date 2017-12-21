@@ -43,7 +43,7 @@ public class SNDataHandler implements Serializable {
 	private HashMap<SuperNPlayer, SuperNPlayer> angels = new HashMap<SuperNPlayer, SuperNPlayer>();
 	private HashMap<SuperNPlayer, ArrayList<String>> hunterApps = new HashMap<SuperNPlayer, ArrayList<String>>();
 
-	private static String path = "plugins/mmSupernaturals/storage.dat";
+	private static String path = "plugins/RevSupernaturals/storage.dat";
 
 	// -------------------------------------------- //
 	// Read/Write //
